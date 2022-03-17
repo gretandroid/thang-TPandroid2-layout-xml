@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TPandroid2LayoutXml</string>
+    <string name="french">French</string>
+    <string name="english">English</string>
+    <string name="italian">Italian</string>
+    <string name="spanish">Spanish</string>
+    <string name="formation">Formation</string>
+    <string name="marriage_status">Marriage Status</string>
+    <string name="married">Married</string>
+    <string name="single">Single</string>
+    <string name="divorced">Divorced</string>
+    <string name="widowner">Widowner</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="pls_fill_yours_surname">Pls fill yours surname</string>
+    <string name="pls_fill_yours_name">Pls fill yours name</string>
+    <string name="country">Country</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string-array name="countries">
+        <item>France</item>
+        <item>England</item>
+        <item>Italy</item>
+        <item>Spain</item>
+    </string-array>
+</resources>
