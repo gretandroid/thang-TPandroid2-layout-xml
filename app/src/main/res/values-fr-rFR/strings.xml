@@ -16,4 +16,10 @@
     <string name="pls_fill_yours_name">Saisir votre prénom, SVP!</string>
     <string name="country">Pays</string>
     <string name="save">Sauvegarder</string>
+    <string-array name="countries">
+        <item>France</item>
+        <item>Angleterre</item>
+        <item>Italie</item>
+        <item>Espagne</item>
+    </string-array>
 </resources>

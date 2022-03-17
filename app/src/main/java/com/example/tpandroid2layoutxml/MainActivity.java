@@ -75,7 +75,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
         // marriage status
         String marriageStatus = EMPTY;
         for (RadioButton choice : marriageStatusRadios) {
