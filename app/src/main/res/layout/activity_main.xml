@@ -137,30 +137,26 @@
 
             <RadioButton
                 android:id="@+id/marriedRadio"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:text="@string/married" />
 
             <RadioButton
                 android:id="@+id/singleRadio"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:text="@string/single" />
 
             <RadioButton
                 android:id="@+id/divorcedRadio"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:text="@string/divorced" />
 
             <RadioButton
                 android:id="@+id/widownerRadio"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:text="@string/widowner" />
         </RadioGroup>
     </LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP android Layout Xml</string>
+    <string name="french">Français</string>
+    <string name="english">Anglais</string>
+    <string name="italian">Italien</string>
+    <string name="spanish">Espagnole</string>
+    <string name="marriage_status">Situation Familliale</string>
+    <string name="married">Marrié</string>
+    <string name="single">Célibataire</string>
+    <string name="divorced">Divorcé</string>
+    <string name="widowner">Veuf</string>
+    <string name="surname">Nom</string>
+    <string name="name">Prénom</string>
+    <string name="pls_fill_yours_surname">Saisir votre nom, SVP!</string>
+    <string name="pls_fill_yours_name">Saisir votre prénom, SVP!</string>
+    <string name="country">Pays</string>
+    <string name="save">Sauvegarder</string>
+</resources>
